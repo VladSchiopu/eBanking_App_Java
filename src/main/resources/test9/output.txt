@@ -1,0 +1,11 @@
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"1000.00"},{"currencyName":"EUR","amount":"0.00"}]}
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"1000.00"},{"currencyName":"EUR","amount":"0.00"}]}
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"841.00"},{"currencyName":"EUR","amount":"100.00"}]}
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"841.00"},{"currencyName":"EUR","amount":"100.00"}]}
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"264.00"},{"currencyName":"EUR","amount":"400.00"}]}
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"359.23"},{"currencyName":"EUR","amount":"400.00"}]}
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"1000.00"},{"currencyName":"EUR","amount":"400.00"}]}
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"1000.00"},{"currencyName":"EUR","amount":"400.00"}]}
+{"stocks":[{"stockname":"ko","amount":10}],"accounts":[{"currencyname":"usd","amount":"431.95"},{"currencyname":"eur","amount":"400.00"}]}
+{"stocks":[{"stockname":"ko","amount":10}],"accounts":[{"currencyname":"usd","amount":"402.05"},{"currencyname":"eur","amount":"400.00"}]}
+

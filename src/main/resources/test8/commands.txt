@@ -1,0 +1,9 @@
+CREATE USER bob.stucky@email.com Bob Stucky 687 Swanson Dr. New York NY 10024
+LIST USER john.doe@email.com
+ADD ACCOUNT bob.stucky@email.com USD
+ADD MONEY bob.stucky@email.com USD 50000
+BUY PREMIUM bob.stucky@email.com
+RECOMMEND STOCKS
+BUY STOCKS bob.stucky@email.com ADBE 10
+BUY STOCKS bob.stucky@email.com ORCL 100
+LIST PORTFOLIO bob.stucky@email.com
